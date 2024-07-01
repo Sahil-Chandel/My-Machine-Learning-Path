@@ -1,0 +1,7 @@
+In Python, a generator is a function or
+ expression that will process a 
+ given iterable one object at a time,
+  on demand.
+   A generator will return a generator 
+   object, 
+which can be cast as a list or some other data structure as appropriate
